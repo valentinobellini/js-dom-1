@@ -1,0 +1,26 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 200px;
+}
+
+#image {
+ 
+}
+
+#button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
