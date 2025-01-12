@@ -7,24 +7,25 @@
     margin-top: 200px;
 }
 
-#image {}
-
 #button {
     border: none;
-    padding: 10px 20px;
+    width: 130px;
+    height: 60px;
     border-radius: 10px;
+    font-weight: 900;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
 }
 
-/* .off {
-    background-color: rgb(181, 247, 181);
-    border-radius: 39px;
+.off {
+    border-radius: 35px;
     box-shadow: 8px 8px 20px #c7c7c7,
         -8px -8px 20px #f9f9f9;
 }
 
 .on {
-    background-color: rgb(248, 183, 183);
-    border-radius: 39px;
+    border-radius: 35px;
     box-shadow: 8px 8px 20px #c7c7c7,
         -8px -8px 20px #f9f9f9;
-} */
+}
