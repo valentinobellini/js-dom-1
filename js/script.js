@@ -1,10 +1,12 @@
 // selezioni elementi
 const lamp = document.getElementById('image');
 
-const switch = document={.getElementById('button');}
+const button = document.getElementById('button');
 
 
 // gestiamo il cambio immagine
-Image.addEventListener('click', function(){
+button.addEventListener('click', function(){
     
-}
+    lamp.src = './img/yellow_lamp.png';
+    button.className = 'on';
+});
